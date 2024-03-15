@@ -1,0 +1,5 @@
+IP: 130.193.52.216
+ name_taski: полная ссылка (https://nanotaski.zapto.org/) на ваш проект Taski;
+ name_kittygram: полная ссылка (https://kitigram.zapto.org/) на ваш проект Kittygram;
+ login: логин суперпользователя; nano (taski), nano-kitty (kittygram)
+ password: пароль суперпользователя; admin (taski),  admin (kittygram)
